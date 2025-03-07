@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ug3cltc4l-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ug3cltc4l-python
